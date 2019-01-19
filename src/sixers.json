@@ -1,0 +1,178 @@
+[
+  {
+    "number": 22,
+    "player": "Wilson Chandler",
+    "position": "PF",
+    "height": "6-9",
+    "weight": 225,
+    "dob": "May 10 1987",
+    "nationality": "us",
+    "years": 10,
+    "college": "DePaul University"
+  },
+  {
+    "number": 23,
+    "player": "Jimmy Butler",
+    "position": "SG",
+    "height": "6-8",
+    "weight": 232,
+    "dob": "September 14 1989",
+    "nationality": "us",
+    "years": 7,
+    "college": "Marquette University"
+  },
+  {
+    "number": 25,
+    "player": "Ben Simmons",
+    "position": "PG",
+    "height": "6-10",
+    "weight": 230,
+    "dob": "July 20 1996",
+    "nationality": "au",
+    "years": 1,
+    "college": "Louisiana State University"
+  },
+  {
+    "number": 12,
+    "player": "T.J. McConnell",
+    "position": "PG",
+    "height": "6-2",
+    "weight": 190,
+    "dob": "March 25 1992",
+    "nationality": "us",
+    "years": 3,
+    "college": "Duquesne University University of Arizona"
+  },
+  {
+    "number": 30,
+    "player": "Furkan Korkmaz",
+    "position": "SG",
+    "height": "6-7",
+    "weight": 190,
+    "dob": "July 24 1997",
+    "nationality": "tr",
+    "years": 1,
+    "college": ""
+  },
+  {
+    "number": "",
+    "player": "Justin Patton",
+    "position": "C",
+    "height": "7-0",
+    "weight": 241,
+    "dob": "June 14 1997",
+    "nationality": "us",
+    "years": 1,
+    "college": "Creighton University"
+  },
+  {
+    "number": 20,
+    "player": "Markelle Fultz",
+    "position": "SG",
+    "height": "6-4",
+    "weight": 200,
+    "dob": "May 29 1998",
+    "nationality": "us",
+    "years": 1,
+    "college": "University of Washington"
+  },
+  {
+    "number": 31,
+    "player": "Mike Muscala",
+    "position": "PF",
+    "height": "6-11",
+    "weight": 240,
+    "dob": "July 1 1991",
+    "nationality": "us",
+    "years": 5,
+    "college": "Bucknell University"
+  },
+  {
+    "number": 21,
+    "player": "Joel Embiid",
+    "position": "C",
+    "height": "7-0",
+    "weight": 250,
+    "dob": "March 16 1994",
+    "nationality": "cm",
+    "years": 2,
+    "college": "University of Kansas"
+  },
+  {
+    "number": "",
+    "player": "Zhaire Smith",
+    "position": "G",
+    "height": "6-4",
+    "weight": 199,
+    "dob": "June 4 1999",
+    "nationality": "us",
+    "years": "R",
+    "college": "Texas Tech University"
+  },
+  {
+    "number": 1,
+    "player": "Landry Shamet",
+    "position": "SG",
+    "height": "6-5",
+    "weight": 188,
+    "dob": "March 13 1997",
+    "nationality": "us",
+    "years": "R",
+    "college": "Wichita State University"
+  },
+  {
+    "number": 17,
+    "player": "J.J. Redick",
+    "position": "SG",
+    "height": "6-4",
+    "weight": 200,
+    "dob": "June 24 1984",
+    "nationality": "us",
+    "years": 12,
+    "college": "Duke University"
+  },
+  {
+    "number": 5,
+    "player": "Amir Johnson",
+    "position": "C",
+    "height": "6-9",
+    "weight": 240,
+    "dob": "May 1 1987",
+    "nationality": "us",
+    "years": 13,
+    "college": ""
+  },
+  {
+    "number": 43,
+    "player": "Jonah Bolden",
+    "position": "PF",
+    "height": "6-10",
+    "weight": 220,
+    "dob": "January 2 1996",
+    "nationality": "au",
+    "years": "R",
+    "college": "University of California Los Angeles"
+  },
+  {
+    "number": 18,
+    "player": "Shake Milton  (TW)",
+    "position": "SG",
+    "height": "6-6",
+    "weight": 207,
+    "dob": "September 26 1996",
+    "nationality": "us",
+    "years": "R",
+    "college": "Southern Methodist University"
+  },
+  {
+    "number": 11,
+    "player": "Demetrius Jackson  (TW)",
+    "position": "PG",
+    "height": "6-1",
+    "weight": 201,
+    "dob": "September 7 1994",
+    "nationality": "us",
+    "years": 2,
+    "college": "University of Notre Dame"
+  }
+]
